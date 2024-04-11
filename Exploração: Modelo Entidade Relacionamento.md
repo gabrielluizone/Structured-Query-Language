@@ -1,7 +1,7 @@
 # Exploração do Modelo de Entidade-Relacionamento
 
 `Autor` Gabriel Luiz dos Santos Silva\
-`Data` Ago, 21 2023
+`Data` Ago, 10 2023
 
 Afiliação: Ciência de Dados | Banco e Armazém de Dados
 
