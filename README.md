@@ -1,5 +1,5 @@
 # Structured-Query-Language
-`PL/SQL`, `CQL`, `TSQL`, e outros
+`TSQL`, `PL/SQL`, `CQL`, `MQL` , e outros
 
 ---
 
